@@ -1,4 +1,4 @@
-0# This file have functions for create read and delete
+# This file have functions for create read and delete
 
 import json
 import threading
